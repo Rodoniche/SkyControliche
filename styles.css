@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+.linki {
+    font-size: 17px;
+    
+    color:rgb(255, 255, 255);
+    text-align: center;
+    border:solid;
+    background-color:#015496;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-color:#015496 ;
+    border-radius: 40px;
+    text-decoration: none;
+    width: auto;
+    height: 38px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+
+    
+    
+   
+}
+.linki:hover {
+    opacity: .8;
+
+}
+
+.beb {
+    text-align: center;
+    width: 38%;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4%;
+    
+    
+}
+.qwe {
+    text-decoration: none;
+    color:#ffffff;
+    margin-top: auto;
+    margin-bottom: auto;  
+
+}   
+body {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.icon {
+    margin-top: 3%;
+    text-align: center;
+    width: 7%;
+    height: 7%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.zxc {
+    font-weight: 700;
+    
+    
+    font-size:170%;
+    margin-top: 5%;
+    color: #115388
+}
+.palka {
+    border-bottom: solid;
+    border-width: 0.5px;
+    border-color: rgb(195, 204, 212);
+    margin-bottom: 4%;
+    margin-top: 4%;
+}
+#cvet {
+    background-color:#00a2a7;
+    border-color:#00a2a7 ;
+}
+.bebra {
+    margin-top:3%;
+}
